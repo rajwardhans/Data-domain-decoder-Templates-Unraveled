@@ -1,0 +1,1 @@
+Our goal is find domain of data set and give predefined template for that domain. We'll give predefined templates in future this is just a initial prototype code for the project/software where the code only finds domain of the data.
