@@ -73,5 +73,5 @@ def define_domains_from_excel(excel_file_path):
 
 # Example usage
 most_likely_domain = identify_most_likely_domain("Train_Data\hospital.xlsx", "Keyword.xlsx")
-print("Most likely domain overall: Healthcare ")
+print(f"Most likely domain overall: {most_likely_domain}")
 
